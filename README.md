@@ -2,8 +2,8 @@
 
 A responsive Netflix landing page clone built using **HTML, CSS, and JavaScript**. This project replicates the UI of Netflix's homepage with a clean and modern design.  
 
-![Netflix Clone Preview](https://your-image-url.com)  
-*(Optional: Add a screenshot of your project to showcase its UI)*  
+![Netflix Clone Preview](https://github.com/Giri-123s/NETFLIX/blob/main/images/bg.jpg)  
+ 
 
 ---
 
@@ -23,13 +23,3 @@ A responsive Netflix landing page clone built using **HTML, CSS, and JavaScript*
 
 ---
 
-## 📸 Screenshots  
-*(Optional: Add some images of your project for better visualization)*  
-
----
-
-## 🛠️ Setup & Installation  
-
-1. **Clone the repository**  
-   ```sh
-   git clone https://github.com/Giri-123s/netflix-clone.git
